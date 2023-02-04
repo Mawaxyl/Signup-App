@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3d45452-0a2f-4204-b34b-c399d9129d36": {
+      "ProjectGuid": "c3d45452-0a2f-4204-b34b-c399d9129d36",
+      "DisplayName": "Signup App",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

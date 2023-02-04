@@ -1,0 +1,17 @@
+C:\Users\dell\source\repos\Signup App\Signup App\bin\Debug\net6.0\Signup App.exe
+C:\Users\dell\source\repos\Signup App\Signup App\bin\Debug\net6.0\Signup App.deps.json
+C:\Users\dell\source\repos\Signup App\Signup App\bin\Debug\net6.0\Signup App.runtimeconfig.json
+C:\Users\dell\source\repos\Signup App\Signup App\bin\Debug\net6.0\Signup App.dll
+C:\Users\dell\source\repos\Signup App\Signup App\bin\Debug\net6.0\Signup App.pdb
+C:\Users\dell\source\repos\Signup App\Signup App\obj\Debug\net6.0\Signup App.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Signup App\Signup App\obj\Debug\net6.0\Signup App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Signup App\Signup App\obj\Debug\net6.0\Signup App.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Signup App\Signup App\obj\Debug\net6.0\Signup App.AssemblyInfo.cs
+C:\Users\dell\source\repos\Signup App\Signup App\obj\Debug\net6.0\Signup App.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Signup App\Signup App\obj\Debug\net6.0\Signup App.dll
+C:\Users\dell\source\repos\Signup App\Signup App\obj\Debug\net6.0\ref\Signup App.dll
+C:\Users\dell\source\repos\Signup App\Signup App\obj\Debug\net6.0\Signup App.pdb
+C:\Users\dell\source\repos\Signup App\Signup App\obj\Debug\net6.0\Signup App.genruntimeconfig.cache
+C:\Users\dell\source\repos\Signup App\Signup App\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\dell\source\repos\Signup App\Signup App\obj\Debug\net6.0\Signup App.csproj.CopyComplete
+C:\Users\dell\source\repos\Signup App\Signup App\obj\Debug\net6.0\refint\Signup App.dll
